@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **model evaluation techniques and deploying data science projects**
 
-- 👨‍💻 All of my projects are available at [Kaggle - gayathris07](Kaggle - gayathris07)
+- 👨‍💻 All of my projects are available at [Kaggle - gayathris07]
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/gayathridevisanthosh/](https://www.linkedin.com/in/gayathridevisanthosh/)
 
